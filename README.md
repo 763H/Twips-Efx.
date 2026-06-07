@@ -5,6 +5,7 @@ With Love Twips Efx
 <head>
     <audio controls autoplay>
      <source src="Aval Swaasam.mp3" type="audio/mp3">
+    </audio Aval Swaasam.mp3>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Happy Birthday 𝐌𝐄𝐑𝐈𝐍 ❤️</title>
@@ -178,7 +179,7 @@ body{
 <section class="gallery">
 
 <div class="polaroid reveal">
-    <img src="/g.png"> 
+    <img src="/a.png"> 
     <div class="caption">𝐀 smile that brightens every day ❤️</div>
 </div>
 
